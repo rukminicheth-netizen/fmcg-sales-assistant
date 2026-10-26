@@ -1,0 +1,12 @@
+# secrets
+.env
+.streamlit/secrets.toml
+
+# built files (re-created by python ingest.py)
+index/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
