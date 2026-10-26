@@ -1,0 +1,12 @@
+[
+  {"question": "Can a salesperson accept gifts or hospitality from a distributor?", "type": "Policy", "expected": "Answer from the HUL Code of Business Principles, with a citation"},
+  {"question": "What are Marico's key brands?", "type": "Product / brand", "expected": "Brand names from the Marico annual report"},
+  {"question": "How did ITC's FMCG business perform in Q2 FY2026?", "type": "Numbers", "expected": "Growth figures quoted exactly from the ITC press release"},
+  {"question": "What are the focus areas of Nestlé India's CSR policy?", "type": "Policy", "expected": "Focus areas from the Nestlé CSR policy"},
+  {"question": "What does Dabur say about rural demand?", "type": "Business insight", "expected": "Commentary from the Dabur MD&A"},
+  {"question": "What should an employee do if they face a conflict of interest at HUL?", "type": "Policy", "expected": "Steps from the HUL code / governance documents"},
+  {"question": "What was ITC's total revenue from operations for the quarter ended March 2025?", "type": "Table / number", "expected": "Exact figure from the ITC Q4 results table (tables are hard for RAG)"},
+  {"question": "Compare how Dabur and Marico describe their distribution reach.", "type": "Multi-document", "expected": "Points from both companies, each cited"},
+  {"question": "What is the price of a 70g Maggi pack?", "type": "Trick (not in documents)", "expected": "Should say it couldn't find this, not guess a price"},
+  {"question": "What discount scheme is running for distributors this month?", "type": "Trick (not in documents)", "expected": "Should say it couldn't find this, not invent a scheme"}
+]

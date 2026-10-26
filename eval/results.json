@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "question": "Can a salesperson accept gifts or hospitality from a distributor?",
+    "type": "Policy",
+    "expected": "Answer from the HUL Code of Business Principles, with a citation",
+    "answer": "Yes, you can offer or accept reasonable gifts (such as at promotional events or product launches) and hospitality, as they can play a positive role in building relationships with customers, suppliers, and third parties [3]. However, the following rules apply:\n\n* **General Rule:** Gifts and hospitality must occur sparingly, be legitimate and proportionate to the business, and never be excessive, confer an improper advantage, or create a conflict of interest [2][3]. \n* **Limits:** You must know and follow the local monetary limits that Unilever has set separately for gifts and hospitality [2][5]. Hospitality must be one-off or irregular in nature and in the form of a locally hosted meal, attendance at, or participation in an organized 'team-building' event, provided there is a legitimate business interest and it does not exceed the local monetary limit [5].\n* **Prohibited Items:** You must never accept cash or cash equivalents (such as lottery tickets, gift certificates, vouchers, loans, guarantees, credit, shares, or options) [1]. You must also never accept gifts or hospitality intended to influence business decisions or create an obligation [1].\n* **Exceeding Limits:** If offered a gift exceeding the local limit, you must politely decline and explain Unilever's rules [5]. In exceptional situations where it must be accepted to avoid serious offence or cannot be returned, you must get clearance from your Business Integrity Officer and, where appropriate, donate the gift to charity [5]. If offered hospitality exceeding the local limits, you must check that your Line Manager supports it, obtain clearance from your Business Integrity Officer, and ensure the third party confirms compliance with their own equivalent policy; otherwise, you must politely decline [1][4].",
+    "found": true,
+    "model": "gemini-flash-lite-latest",
+    "cited_sources": [
+      "Hul Code of Business Principles p.19",
+      "Hul Code of Business Principles p.18",
+      "Hul Code of Business Principles p.18",
+      "Hul Code of Business Principles p.19",
+      "Hul Code of Business Principles p.19"
+    ],
+    "retrieved_sources": [
+      "Hul Code of Business Principles p.19",
+      "Hul Code of Business Principles p.18",
+      "Hul Code of Business Principles p.18",
+      "Hul Code of Business Principles p.19",
+      "Hul Code of Business Principles p.19"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What are Marico's key brands?",
+    "type": "Product / brand",
+    "expected": "Brand names from the Marico annual report",
+    "answer": "Here are Marico's key brands:\n\n* **India Portfolio:** Parachute, Saffola, Saffola FITTIFY, Hair & Care, Parachute Advansed, Nihar Naturals, Mediker, Pure Sense, Coco Soul, Revive, Set Wet, Livon, Beardo, Just Herbs, True Elements, and Plix [1][2][4].\n* **International Portfolio:** Parachute, Parachute Advansed, HairCode, Fiancée, Purité de Prôvence, Ôliv, Caivil, Hercules, Black Chic, Code 10, Ingwe, X-Men, Thuan Phat, and Isoplus (or IsoPlus) [1][2].",
+    "found": true,
+    "model": "gemini-flash-lite-latest",
+    "cited_sources": [
+      "Marico Annual Report FY25 p.6",
+      "Marico Annual Report FY25 p.173",
+      "Marico Annual Report FY25 p.218"
+    ],
+    "retrieved_sources": [
+      "Marico Annual Report FY25 p.6",
+      "Marico Annual Report FY25 p.173",
+      "Marico Annual Report FY25 p.60",
+      "Marico Annual Report FY25 p.218",
+      "Marico Annual Report FY25 p.98"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "How did ITC's FMCG business perform in Q2 FY2026?",
+    "type": "Numbers",
+    "expected": "Growth figures quoted exactly from the ITC press release",
+    "answer": "For the quarter ended 30th September, 2025 (Q2 FY2026), ITC's standalone Gross Revenue reached Rs. 19148 cr., showing a 7.1% YoY increase (excluding Agri Business) that was driven by Cigarettes and FMCG [1].",
+    "found": true,
+    "model": "gemini-flash-lite-latest",
+    "cited_sources": [
+      "ITC Press Release Q2 FY2026 p.1"
+    ],
+    "retrieved_sources": [
+      "ITC Press Release Q2 FY2026 p.1",
+      "ITC Financial Result Q4 FY2025 p.6",
+      "ITC Financial Result Q4 FY2025 p.3",
+      "ITC Financial Result Q4 FY2025 p.6",
+      "Marico Annual Report FY25 p.100"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What are the focus areas of Nestlé India's CSR policy?",
+    "type": "Policy",
+    "expected": "Focus areas from the Nestlé CSR policy",
+    "answer": "The focus areas of Nestlé India's CSR policy are:\n* **Education:** Supporting education, with a special focus on education for the girl child, encouraging skill-set enhancement/awareness, and supporting research/academic activities [4].\n* **Environment:** Focusing on activities with a positive impact on the environment, engaging with stakeholders (such as farmers, experts, NGOs, and the Government), and taking up CSR activities in line with the Government's intent that are important for society [4].\n* **Feeding Initiative:** Providing support toward mid-day meals or cooked meals to promote nutrition development [4].\n* **Disaster Management:** Providing support in special situations or where societal needs are high, such as natural calamities/disasters [4].",
+    "found": true,
+    "model": "gemini-flash-lite-latest",
+    "cited_sources": [
+      "Nestle CSR Policy 2023 p.1"
+    ],
+    "retrieved_sources": [
+      "Nestle CSR Policy 2023 p.1",
+      "Nestle CSR Policy 2023 p.2",
+      "Nestle CSR Policy 2023 p.2",
+      "Nestle CSR Policy 2023 p.1",
+      "Nestle CSR Policy 2023 p.1"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What does Dabur say about rural demand?",
+    "type": "Business insight",
+    "expected": "Commentary from the Dabur MD&A",
+    "answer": "Based on the documents, Dabur states the following regarding rural demand:\n\n* Rural areas remained resilient during 2024-25 and grew ahead of urban areas [1][2][3][4][5].\n* The India Meteorological Department (IMD) has forecast an 'above normal' monsoon for 2025, which will ease inflationary pressures and further invigorate rural demand [1][2][3][4][5].\n* A favourable monsoon supports agricultural output, enhances rural incomes, and strengthens consumption in hinterland markets [1][2][3][4][5].",
+    "found": true,
+    "model": "gemini-flash-lite-latest",
+    "cited_sources": [
+      "dabur mda p.1",
+      "dabur mda p.2",
+      "dabur mda p.3",
+      "dabur mda p.4",
+      "dabur mda p.5"
+    ],
+    "retrieved_sources": [
+      "dabur mda p.1",
+      "dabur mda p.2",
+      "dabur mda p.3",
+      "dabur mda p.4",
+      "dabur mda p.5"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "What should an employee do if they face a conflict of interest at HUL?",
+    "type": "Policy",
+    "expected": "Steps from the HUL code / governance documents",
+    "answer": "If an employee faces an actual, perceived, or potential conflict of interest, they must:\n* Follow the outlined process to immediately disclose it to their Business Integrity Officer, who will determine how to manage the situation in consultation with the employee's Line Manager [4].\n* Ensure they do not accept appointments, debate, vote, or participate in any decision-making process or activity while a conflict of interest exists or might arise, until they have received clearance from their Business Integrity Officer [1].",
+    "found": true,
+    "model": "gemini-flash-lite-latest",
+    "cited_sources": [
+      "Hul Code of Business Principles p.16",
+      "Hul Code of Business Principles p.16"
+    ],
+    "retrieved_sources": [
+      "Hul Code of Business Principles p.16",
+      "Hul Code of Business Principles p.16",
+      "hul cg code of conduct p.13",
+      "Hul Code of Business Principles p.16",
+      "hul cg code of conduct p.13"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "What was ITC's total revenue from operations for the quarter ended March 2025?",
+    "type": "Table / number",
+    "expected": "Exact figure from the ITC Q4 results table (tables are hard for RAG)",
+    "answer": "For the quarter ended March 31, 2025, ITC's revenue from operations was 20376.36 [2]. (This is comprised of gross revenue from the sale of products and services of 20176.41 and other operating revenue of 199.95) [2].",
+    "found": true,
+    "model": "gemini-flash-lite-latest",
+    "cited_sources": [
+      "ITC Financial Result Q4 FY2025 p.1"
+    ],
+    "retrieved_sources": [
+      "ITC Financial Result Q4 FY2025 p.3",
+      "ITC Financial Result Q4 FY2025 p.1",
+      "ITC Press Release Q2 FY2026 p.6",
+      "ITC Financial Result Q4 FY2025 p.5",
+      "ITC Press Release Q2 FY2026 p.1"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Compare how Dabur and Marico describe their distribution reach.",
+    "type": "Multi-document",
+    "expected": "Points from both companies, each cited",
+    "answer": "Based on the provided documents:\n\n* **Dabur** describes its distribution reach in terms of retail outlets and rural coverage. During fiscal 2024-25, the company increased its direct coverage to 1.5 million retail outlets, with a total direct and indirect reach of 8.4 million outlets [1][3][5]. Additionally, it expanded its rural coverage by adding another 16,000 villages, bringing its total to 1,32,000 villages for FY24-25 [1][3][5].\n* **Marico** describes its consumer engagement and feedback mechanisms (such as its ISO 10002-certified Consumer Services Cell and the \"ConCore\" CRM portal), but the provided sources do not contain information describing Marico's distribution reach.",
+    "found": true,
+    "model": "gemini-flash-lite-latest",
+    "cited_sources": [
+      "dabur mda p.1",
+      "dabur mda p.2",
+      "dabur mda p.3"
+    ],
+    "retrieved_sources": [
+      "dabur mda p.1",
+      "Marico Annual Report FY25 p.134",
+      "dabur mda p.2",
+      "Marico Annual Report FY25 p.127",
+      "dabur mda p.3"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "What is the price of a 70g Maggi pack?",
+    "type": "Trick (not in documents)",
+    "expected": "Should say it couldn't find this, not guess a price",
+    "answer": "I couldn't find this in the documents.",
+    "found": false,
+    "model": "gemini-flash-lite-latest",
+    "cited_sources": [],
+    "retrieved_sources": [
+      "Nestle Investor presentation 26 p.22",
+      "dabur directors report p.48",
+      "Marico Annual Report FY25 p.11",
+      "Nestle Investor presentation 26 p.11",
+      "Nestle India BusinessReport p.5"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "What discount scheme is running for distributors this month?",
+    "type": "Trick (not in documents)",
+    "expected": "Should say it couldn't find this, not invent a scheme",
+    "answer": "I couldn't find this in the documents.",
+    "found": false,
+    "model": "gemini-flash-lite-latest",
+    "cited_sources": [],
+    "retrieved_sources": [
+      "Marico Annual Report FY25 p.164",
+      "Marico Annual Report FY25 p.249",
+      "ITC Financial Result Q4 FY2025 p.2",
+      "Marico Annual Report FY25 p.205",
+      "Marico Annual Report FY25 p.233"
+    ]
+  }
+]
